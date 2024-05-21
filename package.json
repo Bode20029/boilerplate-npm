@@ -13,6 +13,7 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT"
 	
 }
